@@ -22,3 +22,9 @@
 <div> 
   <a href="https://www.linkedin.com/in/luiz-felipe-souza-3194096a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+  <br>
+  <p align="center">
+    Número de visitas: <br> <img src="https://profile-counter.glitch.me/fehjsouza/count.svg" alt="contador de visitas">
+  </p>
+  <br>
