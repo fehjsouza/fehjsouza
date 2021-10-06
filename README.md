@@ -28,3 +28,11 @@
     Número de visitas: <br> <img src="https://profile-counter.glitch.me/fehjsouza/count.svg" alt="contador de visitas">
   </p>
   <br>
+  
+   <strong>
+           <i>“Our greatest ability as humans is not to change the world, but to change ourselves.”</i>
+    <br><br>
+    — Mahatma Gandhi
+     </strong>
+  </p>
+</footer>
