@@ -1,7 +1,7 @@
 ### Olá, eu sou Luiz Felipe! ✌
 
-💼 QA / Analista de Testes em Performance Pleno
-📚 Estudante de Python e Java
+💼 QA / Analista de Testes Pleno
+📚 Estudante
 ✏ Formado em Administração - PUCSP
 
 <div>
